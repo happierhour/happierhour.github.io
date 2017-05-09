@@ -6,15 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Halfway Point
-email: halfwaypointshow@gmail.com
+title: Happier Hour
+email: happierhourfeedback@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://halfwaypoint.github.io" # the base hostname & protocol for your site
+url: "http://happierhour.github.io" # the base hostname & protocol for your site
 port: 3000 # change server port to 3000
 
 # Build settings
 markdown: kramdown
-
-
-
