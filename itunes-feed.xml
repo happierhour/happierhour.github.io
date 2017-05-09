@@ -1,0 +1,101 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+<title>Halfway Point</title>
+<link>http://halfwaypoint.github.io</link>
+<language>en-us</language>
+<copyright>&#xA9; 2016 Halfway Point</copyright>
+<itunes:subtitle>A geek talks about things he's interested in, usually technology related, and tries his best not to ramble.</itunes:subtitle>
+<itunes:author>Adithya Sudarsan</itunes:author>
+<itunes:summary>A geek talks about things he's interested in, usually technology related, and tries his best not to ramble.</itunes:summary>
+<description>A geek talks about things he's interested in, usually technology related, and tries his best not to ramble.</description>
+<itunes:owner>
+<itunes:name>Adithya Sudarsan</itunes:name>
+<itunes:email>halfwaypointshow@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:image href="http://halfwaypoint.github.io/assets/show-artwork.png"/>
+<itunes:category text="Technology">
+</itunes:category>
+<itunes:explicit>no</itunes:explicit>
+<item>
+<title>1: Instagram Stories</title>
+<itunes:author>Adithya Sudarsan</itunes:author>
+<itunes:subtitle>Adithya Shares his thoughts on Instagram Stories.</itunes:subtitle>
+<itunes:summary>Adithya Shares his thoughts on Instagram Stories.</itunes:summary>
+<itunes:image href="http://halfwaypoint.github.io/assets/show-artwork.png"/>
+<enclosure length="5144704" type="audio/mpeg" url="https://ia601509.us.archive.org/14/items/halfwaypoint-ep-01/EP1-Instagram-Stories.mp3"/>
+<guid>1: Instagram Stories</guid>
+<pubDate>Fri, 26 Aug 2016 13:00:00 EST</pubDate>
+<itunes:duration>10:41</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+<title>2: Following Up on Snapchat</title>
+<description>
+<![CDATA[
+<ul>
+<li><a href="https://www.relay.fm/connected/110">Connected #110</a></li>
+<li>Statechery Articles refrenced:
+	<ul>
+		<li><a href="https://stratechery.com/2015/old-fashioned-snapchat/">"Old-Fashioned Snapchat"</a></li>
+		<li><a href="https://stratechery.com/2016/snapchat-spectacles-and-the-future-of-wearables/">"Snapchat Spectacles and the Future of Wearable"</a></li>
+	</ul>
+</li>
+<li><a href="http://exponent.fm/">Ben Thompson's excellent podcast, Exponent.</a></li>
+<li><a href="https://youtu.be/q43MoyiFK50">An example of an excellent Snapchat Discover Story</a></li>
+<li><a href="https://www.spectacles.com/">Snapchat Spectacles</a></li>
+<li><a href="https://www.snapchat.com/ads">Snapchat Ads Page</a></li>
+<li>Music by<a href="http://www.bensound.com">Ben Sound</a></li>
+</ul>
+]]>
+</description>
+<itunes:author>Adithya Sudarsan</itunes:author>
+<itunes:subtitle>Adithya follows up on the last episode by expanding on his thoughts about Snapchat.</itunes:subtitle>
+<itunes:summary>Adithya follows up on the last episode by expanding on his thoughts about Snapchat.</itunes:summary>
+<itunes:image href="http://halfwaypoint.github.io/assets/show-artwork.png"/>
+<enclosure length="5144704" type="audio/mpeg" url="https://ia601504.us.archive.org/27/items/halfwaypoint-ep-02/Ep-2-HalfwayPoint.mp3"/>
+<guid>2: Following Up on Snapchat</guid>
+<pubDate>Fri, 21 Oct 2016 18:00:00 EST</pubDate>
+<itunes:duration>22:05</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+<title>3: Hello Again</title>
+<description>
+<![CDATA[
+<ul>
+<li><a href="http://www.apple.com/apple-events/october-2016/">Hello Again Event</a></li>
+<li><a href="https://news.microsoft.com/microsoft-event-2016/">Microsoft's Surface Studio Event</a></li>	
+<li>Microsoft Products mentioned:
+	<ul>
+		<li><a href="https://www.microsoftstore.com/store/msusa/en_US/pdp/Surface-Book/productID.5072642200">"Surface Book"</a></li>
+		<li><a href="https://www.microsoft.com/en-us/surface/devices/surface-studio/overview">"Surface Studio"</a></li>
+	</ul>
+</li>
+<li>Apple Products mentioned:
+	<ul>
+		<li><a href="http://www.apple.com/macbook-pro/">"Macbook Pro"</a></li>
+		<li><a href="http://www.apple.com/imac/">"iMac"</a></li>
+		<li><a href="http://www.apple.com/ipad-pro/">"iPad Pro"</a></li>
+	</ul>
+</li>
+<li><a href="https://www.youtube.com/watch?v=ut2ganIK0cY">Mr.Mobile's Surface Book Review</a></li>
+<li><a href="https://marco.org/2016/11/05/world-without-mac-pro">Marco Arment's Article - World Without the Mac Pro</a></li>
+</ul>
+]]>
+</description>
+<itunes:author>Adithya Sudarsan</itunes:author>
+<itunes:subtitle>Adithya shares his thoughts on the criticism surrounding the new Macbook Pro.</itunes:subtitle>
+<itunes:summary>Adithya shares his thoughts on the criticism surrounding the new Macbook Pro.</itunes:summary>
+<itunes:image href="http://halfwaypoint.github.io/assets/show-artwork.png"/>
+<enclosure length="37852105" type="audio/mpeg" url="https://ia601508.us.archive.org/28/items/halfwaypoint-ep-03/EP3.mp3"/>
+<guid>3: Hello Again</guid>
+<pubDate>Fri, 18 Nov 2016 12:00:00 EST</pubDate>
+<itunes:duration>15:42</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+</item>
+</channel>
+</rss>
