@@ -7,29 +7,30 @@ layout: null
 <title>Happier Hour</title>
 <link>http://happierhour.github.io</link>
 <language>en-us</language>
-<copyright>&#xA9; 2016 Happier Hour</copyright>
-<itunes:subtitle>A geek talks about things he's interested in, usually technology related, and tries his best not to ramble.</itunes:subtitle>
-<itunes:author>Adithya Sudarsan</itunes:author>
-<itunes:summary>A geek talks about things he's interested in, usually technology related, and tries his best not to ramble.</itunes:summary>
-<description>A geek talks about things he's interested in, usually technology related, and tries his best not to ramble.</description>
+<copyright>&#xA9; 2017 Happier Hour</copyright>
+<itunes:subtitle>Three students from different walks of life discuss their journey on being more productive, efficient, and happier people.</itunes:subtitle>
+<itunes:author>Adithya, Erica, Jessy</itunes:author>
+<itunes:summary>Three students from different walks of life discuss their journey on being more productive, efficient, and happier people.</itunes:summary>
+<description>Three students from different walks of life discuss their journey on being more productive, efficient, and happier people.</description>
 <itunes:owner>
-<itunes:name>Adithya Sudarsan</itunes:name>
+<itunes:name>Adithya, Erica, Jessy</itunes:name>
 <itunes:email>happierhourfeedback@gmail.com</itunes:email>
 </itunes:owner>
 <itunes:image href="http://happierhour.github.io/assets/show-artwork.png"/>
-<itunes:category text="Technology">
-</itunes:category>
+<itunes:category text="Technology"/>
+<itunes:category text="Education"/>
+<itunes:category text="Self-Help"/>
 <itunes:explicit>no</itunes:explicit>
 <item>
-<title>1: Instagram Stories</title>
+<title>1: Show and Tell</title>
 <itunes:author>Adithya Sudarsan</itunes:author>
-<itunes:subtitle>Adithya Shares his thoughts on Instagram Stories.</itunes:subtitle>
-<itunes:summary>Adithya Shares his thoughts on Instagram Stories.</itunes:summary>
+<itunes:subtitle>We talk about homescreens.</itunes:subtitle>
+<itunes:summary>We talk about homescreens.</itunes:summary>
 <itunes:image href="http://happierhour.github.io/assets/show-artwork.png"/>
-<enclosure length="5144704" type="audio/mpeg" url="https://ia601509.us.archive.org/14/items/happierhour-ep-01/EP1-Instagram-Stories.mp3"/>
-<guid>1: Instagram Stories</guid>
-<pubDate>Fri, 26 Aug 2016 13:00:00 EST</pubDate>
-<itunes:duration>10:41</itunes:duration>
+<enclosure length="59392734" type="audio/mpeg" url="https://ia601503.us.archive.org/20/items/happierhour-ep1/Episode1.mp3"/>
+<guid>1: Show and Tell</guid>
+<pubDate>Fri, 16 Jun 2017 13:00:00 EST</pubDate>
+<itunes:duration>70:09</itunes:duration>
 <itunes:explicit>no</itunes:explicit>
 </item>
 </channel>
