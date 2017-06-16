@@ -23,6 +23,32 @@ layout: null
 <itunes:explicit>no</itunes:explicit>
 <item>
 <title>1: Show and Tell</title>
+<description>
+<![CDATA[
+We talk about homescreens.</br>
+Related Links:</br>
+<ul>
+<li>Erica:
+	<ul>
+		<li><a href="https://happierhour.github.io/assets/iOS-screens-may/erica-iPhone-May.jpg">iPhone 6 Homescreen</a></li>
+		<li><a href="https://happierhour.github.io/assets/iOS-screens-may/erica-iPad-May.jpg">12.9" iPad Pro Homescreen</a></li>
+	</ul>
+</li>
+<li>Adithya:
+	<ul>
+		<li><a href="https://happierhour.github.io/assets/iOS-screens-may/adithya-iPhone-1-May.jpeg">iPhone 6 Plus Homescreen</a></li>
+		<li><a href="https://happierhour.github.io/assets/iOS-screens-may/adithya-iPhone-2-May.jpeg">iPhone 6 Plus Second Screen</a></li>
+	</ul>
+</li>
+<li>Jessy:
+	<ul>
+		<li><a href="https://happierhour.github.io/assets/iOS-screens-may/jessy-iPhone-May.jpeg">iPhone 6 Homescreen</a></li>
+		<li><a href="https://happierhour.github.io/assets/iOS-screens-may/jessy-iPad-May.jpg">9.7" iPad Homescreen</a></li>
+	</ul>
+</li>
+</ul>
+]]>
+</description>
 <itunes:author>Adithya Sudarsan</itunes:author>
 <itunes:subtitle>We talk about homescreens.</itunes:subtitle>
 <itunes:summary>We talk about homescreens.</itunes:summary>
